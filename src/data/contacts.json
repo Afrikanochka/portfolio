@@ -1,0 +1,33 @@
+[
+  {
+    "id": "id-1",
+    "label": "Phone",
+    "link": "tel:358468416839",
+    "text": "+358 46 841 68 39"
+  },
+  {
+    "id": "id-2",
+    "label": "E-mail",
+    "link": "mailto:mtgnatali@gmail.com",
+    "text": "mtgnatali@gmail.com"
+  },
+  
+  {
+    "id": "id-3",
+    "label": "Git Hub",
+    "link": "https://github.com/Afrikanochka",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-4",
+    "label": "LinkedIn", 
+   "link": "https://www.linkedin.com/in/natalia-polovynko-13660321b",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-5",
+    "label": "Telegram",
+    "link": "https://t.me/Afrikanochka",
+    "text": "Telegram"
+  }
+]

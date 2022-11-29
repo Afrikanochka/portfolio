@@ -1,0 +1,44 @@
+.item {
+  list-style: none;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.university {
+  margin-bottom: 10px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--accentColor);
+}
+
+.education {
+  margin-bottom: 10px;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+}
+
+.time {
+  font-size: 12px;
+  line-height: 2;
+  color: black;
+}
+
+.divider {
+  color: #000000;
+}
+
+.list {
+  margin-top: 10px;
+
+  font-size: 14px;
+  line-height: 1.71;
+
+  list-style: inside;
+  color: var(--primaryTextColor);
+}

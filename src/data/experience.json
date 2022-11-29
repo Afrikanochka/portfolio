@@ -1,0 +1,67 @@
+[
+  {
+    "id": "id-1",
+    "profession": "Accountant",
+    "company": "Private enterprise",
+    "time": "July 2019 - June 2020",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Accounting of several legal entities in the 1c program."
+      },
+      {
+        "id": "2",
+        "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
+      },
+      {
+        "id": "3",
+        "duty": "Data analysis in Excel."
+      }
+    ]
+  },
+ 
+  {
+    "id": "id-2",
+    "profession": "Confectioner",
+    "company": "Roladin",
+    "time": "September 2017 - May 2019",
+    "country": "Israel",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Experience on the line in a team."
+      },
+      {
+        "id": "2",
+        "duty": "Endurance by long working day ratio."
+      },
+      {
+        "id": "3",
+        "duty": "Control over the execution of management orders."
+      }
+    ]
+  },
+  {
+    "id": "id-3",
+    "profession": "Confectioner",
+    "company": "Magnolia",
+    "time": "October 2014 - May 2015",
+    "country": "Poland",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Teamwork in a large factory."
+      },
+      {
+        "id": "2",
+        "duty": "Experience in the production of confectionery."
+      },
+      {
+        "id": "3",
+        "duty": "Experience behind the machine."
+      }
+    ]
+  }
+  
+]

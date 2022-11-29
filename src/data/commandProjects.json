@@ -1,0 +1,20 @@
+[
+  {
+    "id": "id-1",
+    "label": "IceCream",
+    "link": "https://dmytrogupanets.github.io/a-team-project-html-css/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-2",
+    "label": "Events",
+    "link": "https://aleksandr031091.github.io/team-project-events/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-3",
+    "label": "Kids Like",
+    "link": "https://kidslike-team2.netlify.app/auth",
+    "tech": "React.js, Redux, Node.js"
+  }
+]

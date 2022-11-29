@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://afrikanochka.github.io/webStudio/",
+    "tech": "HTML5, Sass"
+  },
+  {
+    "id": "id-2",
+    "label": "Image Finder",
+    "link": " https://image-finger-afrika.netlify.app",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-3",
+    "label": "Shop",
+    "link": "https://afrika-shop.netlify.app",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-4",
+    "label": "Movies",
+    "link": "https://afrikanochka-www.netlify.app/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-5",
+    "label": "Phonebook",
+    "link": "https://afrikanochka-phonebook-www.netlify.app/",
+    "tech": "React.js, Redux"
+  }
+]
