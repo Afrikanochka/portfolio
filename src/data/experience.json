@@ -1,32 +1,12 @@
 [
-  {
-    "id": "id-1",
-    "profession": "Accountant",
-    "company": "Private enterprise",
-    "time": "July 2019 - June 2020",
-    "country": "Ukraine",
-    "duties": [
-      {
-        "id": "1",
-        "duty": "Accounting of several legal entities in the 1c program."
-      },
-      {
-        "id": "2",
-        "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
-      },
-      {
-        "id": "3",
-        "duty": "Data analysis in Excel."
-      }
-    ]
-  },
+ 
  
   {
-    "id": "id-2",
-    "profession": "Confectioner",
-    "company": "Roladin",
-    "time": "September 2017 - May 2019",
-    "country": "Israel",
+    "id": "id-1",
+    "profession": "Chicken factory",
+    "company": "Naapurin Maalaiskana Oy",
+    "time": "July 2022 - November 2022",
+    "country": "Finland",
     "duties": [
       {
         "id": "1",
@@ -43,23 +23,23 @@
     ]
   },
   {
-    "id": "id-3",
-    "profession": "Confectioner",
-    "company": "Magnolia",
-    "time": "October 2014 - May 2015",
-    "country": "Poland",
+    "id": "id-2",
+    "profession": "Accountant",
+    "company": "Private enterprise",
+    "time": "July 2019 - June 2021",
+    "country": "Ukraine",
     "duties": [
       {
         "id": "1",
-        "duty": "Teamwork in a large factory."
+        "duty": "Accounting of several legal entities in the 1c program."
       },
       {
         "id": "2",
-        "duty": "Experience in the production of confectionery."
+        "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
       },
       {
         "id": "3",
-        "duty": "Experience behind the machine."
+        "duty": "Data analysis in Excel."
       }
     ]
   }

@@ -13,8 +13,8 @@
   },
   {
     "id": "id-3",
-    "label": "Shop",
-    "link": "https://afrika-shop.netlify.app",
+    "label": "Home design",
+    "link": "https://home-design-by-polovynko.vercel.app",
     "tech": "React.js"
   },
   {
@@ -25,8 +25,14 @@
   },
   {
     "id": "id-5",
-    "label": "Phonebook",
-    "link": "https://afrikanochka-phonebook-www.netlify.app/",
-    "tech": "React.js, Redux"
+    "label": "Snake game",
+    "link": "https://afrikanochka.github.io/snake-game/",
+    "tech": "Javascript, React.js"
+  },
+  {
+    "id": "id-6",
+    "label": "Countries",
+    "link": "https://afrikanochka.github.io/countries",
+    "tech": "React.js, Redux, Typescript"
   }
 ]
